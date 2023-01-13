@@ -1,0 +1,25 @@
+
+.navbar {
+    background-color: #C38C63;
+    color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 #575a5a;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+body {
+    background-image: url("images/red-panda.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
